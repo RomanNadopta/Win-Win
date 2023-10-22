@@ -193,7 +193,7 @@ const deleteExchange = async () => {
 }
 
 .card {
-  z-index: 9999;
+  z-index: 10;
   min-width: 294px;
   padding: 5px;
   border-radius: 5px;
